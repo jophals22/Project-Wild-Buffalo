@@ -1,0 +1,47 @@
+/** --------Nav Bar-------- **/
+
+.navbar {
+	opacity: .75;
+}
+
+#navTextColor {
+	color: #FF3E96;
+}
+
+/**
+
+.btn-default {
+	background-color: #808080;
+}
+
+**/
+
+.container-fluid {
+	background-color: black;
+}
+
+
+/** --------Body--------- **/
+
+.jumbotron {
+	background-image: url("WestytheBuffalo.jpg");
+	height: 60vh;
+}
+
+.jumboText {
+	color: white;
+}
+
+/**.row {
+	display: inline-block;
+	width: 33%;
+}
+**/
+
+#thumbnail {
+	width: 33%;
+}
+
+.col-sm-6, .col-md-4 {
+	border: none;
+}
